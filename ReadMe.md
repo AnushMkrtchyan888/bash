@@ -1,8 +1,8 @@
-Description
+**Description**
 
 The bash script for capturing the Linux processes date and adding in the files by process type.
 
-Requirements
+**Requirements**
 Linux operating system
 
 Do the following step before
@@ -13,11 +13,11 @@ Run automated script
 $. open terminal 
 $. cd to the ProcessCapturing.sh
 
-To run the script you need to write the run command provided below.
+**To run the script you need to write the run command provided below.**
 
 $. run the script with ./ProcessCapturing.sh command
 
-To run the script every day(minute, hour, month, year) automatically you need to add crontab command.
+**To run the script every day(minute, hour, month, year) automatically you need to add crontab command.**
 
 $ open terminal
 $ run the crontab -e command
