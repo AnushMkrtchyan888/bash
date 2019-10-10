@@ -14,9 +14,11 @@ $. open terminal
 $. cd to the ProcessCapturing.sh
 
 To run the script you need to write the run command provided below.
+
 $. run the script with ./ProcessCapturing.sh command
 
 To run the script every day(minute, hour, month, year) automatically you need to add crontab command.
+
 $ open terminal
 $ run the crontab -e command
 $ switch to the Insert mode and go to the end of the opened document
