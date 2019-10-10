@@ -1,4 +1,5 @@
 Description
+
 The bash script for capturing the Linux processes date and adding in the files by process type.
 
 Requirements
@@ -6,7 +7,8 @@ Linux operating system
 
 Do the following step before
 
-$. git clone https://github.com/...... 
+$. git clone https://github.com/AnushMkrtchyan888/bash.git
+
 Run automated script
 $. open terminal 
 $. cd to the ProcessCapturing.sh
