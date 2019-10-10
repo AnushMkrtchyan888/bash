@@ -12,7 +12,7 @@ fi
 
 for i in {1..300}
 do
-STR=$(head -n $i "/home/anush_m/Processes/process.txt" | tail -n +$i)
+STR=$(find ~/Processes/process.txt |head -n $i | tail -n +$i)
 if [[ $STR =~ ^S ]]
 then
 (echo "$STR" >>~/Processes/Stopped.txt)
